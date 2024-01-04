@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_200">#aris</color>
+    <color name="pastelBlue">#87CEEB</color>
+    <color name="pastelGray">#D3D3D3</color>
+    <color name="pastelYellow">#FFD700</color>
+    <color name="pastelSkyBlue">#87CEFA</color>
+    <color name="pastelDefault">#FFB6C1</color>
+</resources>
